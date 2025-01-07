@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=&vCenter=&repeat=&random=&width=1000&height=150&lines=Ol%C3%A1+Devs%2C+aqui+%C3%A9+o+Juvenal+Filho;Seja+bem-vindo+ao+meu+GitHub!+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=150&lines=Ol%C3%A1+Devs%2C+aqui+%C3%A9+o+Juvenal+Filho;Seja+bem-vindo+ao+meu+GitHub!+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 Seja bem-vindo ao meu GitHub! Sou **Juvenal Filho**, um desenvolvedor Fullstack apaixonado por tecnologia, aprendizado e soluções inovadoras. 🚀
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
@@ -7,14 +8,15 @@ Seja bem-vindo ao meu GitHub! Sou **Juvenal Filho**, um desenvolvedor Fullstack 
 
 - 🎓 **Formação**: Engenheiro da Computação pela Unifacs.
 - 🎓 **Pós-graduação**: Engenharia de Software pela Descomplica.
-- 💻 **Especialização**: **Java** e **Angular**.
+- 💻 **Especialização**: Desenvolvimento Fullstack com **Java** e **Angular**.
 - 🛠️ **Competências**:
   - **Backend**: Java, Spring Boot, APIs REST.
   - **Frontend**: Angular, HTML5, CSS3, TypeScript.
   - **Banco de Dados**: MySQL, PostgreSQL, MongoDB.
 - 🌱 **Aprendizado Atual**: Inglês técnico e aprofundamento em frameworks modernos.
 - 🔗 **Interesses**: Programação, banco de dados, frameworks frontend e backend.
-  
+
+---
 
 ## Vamos nos conectar? 🌐
 
