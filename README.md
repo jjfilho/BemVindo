@@ -1,1 +1,1 @@
-# BemVindo
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71645&width=435&lines=Ol%C3%A1+Devs%2C+aqui+%C3%A9+o+Juvenal+Filho%2C+seja+bem-vindo+ao+meu+GitHub!+%F0%9F%9A%80)](https://git.io/typing-svg)
