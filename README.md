@@ -18,7 +18,7 @@ Seja bem-vindo ao meu GitHub! Sou **Juvenal Filho**, um desenvolvedor Fullstack 
 
 ## Vamos nos conectar? 🌐
 
-- 📫 **Email**: juvenal@exemplo.com
+- 📫 **Email**: juvenal.santos12@live.com
 - 🔗 **LinkedIn**: [Juvenal Filho](https://www.linkedin.com/in/juvenal-jo%C3%A3o-dos-santos-filho-5581b1117)
 - 📱 **WhatsApp**: +55 71 99187-3312
 
