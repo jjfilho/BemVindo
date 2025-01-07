@@ -1,4 +1,28 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=&vCenter=&repeat=&random=&width=1000&height=150&lines=Ol%C3%A1+Devs%2C+aqui+%C3%A9+o+Juvenal+Filho;Seja+bem-vindo+ao+meu+GitHub!+%F0%9F%9A%80)](https://git.io/typing-svg)
+<svg viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    .text {
+      font-family: 'Fira Code', monospace;
+      font-size: 40px;
+      fill: #ff5722;
+      animation: typing 4s steps(30, end), blink 0.5s step-end infinite alternate;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+    @keyframes typing {
+      from { width: 0; }
+      to { width: 100%; }
+    }
+    @keyframes blink {
+      50% { border-color: transparent; }
+    }
+  </style>
+  <text x="50" y="80" class="text">
+    Olá Devs, aqui é o Juvenal Filho
+  </text>
+  <text x="50" y="130" class="text">
+    Seja bem-vindo ao meu GitHub! 🚀
+  </text>
+</svg>
 
 Seja bem-vindo ao meu GitHub! Sou **Juvenal Filho**, um desenvolvedor Fullstack apaixonado por tecnologia, aprendizado e soluções inovadoras. 🚀
 
