@@ -6,14 +6,15 @@ Seja bem-vindo ao meu GitHub! Sou **Juvenal Filho**, um desenvolvedor Fullstack 
 ## Sobre mim 🧑‍💻
 
 - 🎓 **Formação**: Engenheiro da Computação pela Unifacs.
-- 💻 **Especialização**: Desenvolvimento Fullstack com **Java** e **Angular**.
+- 🎓 **Pós-graduação**: Engenharia de Software pela Descomplica.
+- 💻 **Especialização**: **Java** e **Angular**.
 - 🛠️ **Competências**:
-  - Backend: Java, Spring Boot, APIs REST.
-  - Frontend: Angular, HTML5, CSS3, TypeScript.
-  - Banco de Dados: MySQL, PostgreSQL, MongoDB.
+  - **Backend**: Java, Spring Boot, APIs REST.
+  - **Frontend**: Angular, HTML5, CSS3, TypeScript.
+  - **Banco de Dados**: MySQL, PostgreSQL, MongoDB.
 - 🌱 **Aprendizado Atual**: Inglês técnico e aprofundamento em frameworks modernos.
 - 🔗 **Interesses**: Programação, banco de dados, frameworks frontend e backend.
-
+  
 ---
 
 ## Vamos nos conectar? 🌐
