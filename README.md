@@ -1,7 +1,7 @@
 
 
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71645&width=435&lines=Ol%C3%A1+Devs%2C+aqui+%C3%A9+o+Juvenal+Filho;Seja+bem-vindo+ao+meu+GitHub!+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F2F3&width=435&lines=Ol%C3%A1+Devs%2C+aqui+%C3%A9+o+Juvenal+Filho;Seja+bem-vindo+ao+meu+GitHub!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 Seja bem-vindo ao meu GitHub! Sou **Juvenal Filho**, um desenvolvedor Fullstack apaixonado por tecnologia, aprendizado e soluções inovadoras. 🚀
 
