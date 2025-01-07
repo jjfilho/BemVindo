@@ -26,9 +26,9 @@ Seja bem-vindo ao meu GitHub! Sou **Juvenal Filho**, um desenvolvedor Fullstack 
 
 ## Estatísticas ⚡
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjfilho&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Juvenal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Juvenal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjfilho&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
