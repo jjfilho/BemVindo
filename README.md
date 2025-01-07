@@ -2,7 +2,7 @@
 
 Seja bem-vindo ao meu GitHub! Sou **Juvenal Filho**, um desenvolvedor Fullstack apaixonado por tecnologia, aprendizado e soluções inovadoras. 🚀
 
----
+[---](https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif)
 
 ## Sobre mim 🧑‍💻
 
