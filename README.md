@@ -15,7 +15,6 @@ Seja bem-vindo ao meu GitHub! Sou **Juvenal Filho**, um desenvolvedor Fullstack 
 - 🌱 **Aprendizado Atual**: Inglês técnico e aprofundamento em frameworks modernos.
 - 🔗 **Interesses**: Programação, banco de dados, frameworks frontend e backend.
   
----
 
 ## Vamos nos conectar? 🌐
 
